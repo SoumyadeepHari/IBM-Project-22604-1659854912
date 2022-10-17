@@ -1,3 +1,15 @@
 #  This is the folder for Assignments.
 
-![image](https://user-images.githubusercontent.com/79015800/196113803-7ab8b712-462b-4bd0-a3e9-432afeae4403.png)
+## Web Phishing Detection
+
+Team ID         : PNT2022TMID10819
+
+Team Size       : 4
+
+Team Lead       : SHAHUL HAMEED S
+
+TEAM MEMBER 1   : SANTHANA BHARATHI
+
+TEAM MEMBER 2   : SHIEK JAMSHEER BASHA M
+
+TEAM MEMBER 3   : THAMARAIKANNAN V
