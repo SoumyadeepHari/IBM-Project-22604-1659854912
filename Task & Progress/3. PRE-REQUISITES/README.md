@@ -46,11 +46,21 @@ https://youtu.be/akj3_wTploU
 If you are using anaconda navigator, follow below steps to download required packages:
 
 
-Open anaconda prompt.
+### Open anaconda prompt.
+
+
 Type “pip install numpy” and click enter.
+
+
 Type “pip install pandas”and click enter.
+
+
 Type “pip install matplotlib”and click enter.
+
+
 Type“pip install scikit-learn”and click enter.
+
+
 Type“pip install Flask”and click enter.
 
 
