@@ -1,5 +1,5 @@
 # Project Objectives
-By the end of this project:
+## By the end of this project:
 
 
 We will be able to understand the problem to classify if it is a regression or a classification kind of problem.
