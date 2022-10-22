@@ -1,17 +1,17 @@
 # Project Objectives
-## By the end of this project:
+### By the end of this project:
 
 
-We will be able to understand the problem to classify if it is a regression or a classification kind of problem.
+1. We will be able to understand the problem to classify if it is a regression or a classification kind of problem.
 
 
-We will be able to know how to pre-process/clean the data using different data pre-processing techniques.
+2. We will be able to know how to pre-process/clean the data using different data pre-processing techniques.
 
 
-Applying different algorithms according to the dataset
+3. Applying different algorithms according to the dataset
 
 
-We will be able to know how to find the accuracy of the model.
+4. We will be able to know how to find the accuracy of the model.
 
 
-We will be able to build web applications using the Flask framework.
+5. We will be able to build web applications using the Flask framework.
