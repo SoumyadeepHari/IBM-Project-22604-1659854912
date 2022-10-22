@@ -1,11 +1,18 @@
-Data Pre-Processing
+# Data Pre-Processing
 In this milestone, we will be pre-processing the dataset that is collected.
 
+### Pre-processing includes
 
-Pre-processing includes
+1. Handling the null values.
 
-Handling the null values.
-Handling the categorical values if any.
-Normalize the data if required.
-Identifying the dependent and independent variables.
-Split the dataset into train and test sets.
+
+2. Handling the categorical values if any.
+
+
+3. Normalize the data if required.
+
+
+4. Identifying the dependent and independent variables.
+
+
+5. Split the dataset into train and test sets.
