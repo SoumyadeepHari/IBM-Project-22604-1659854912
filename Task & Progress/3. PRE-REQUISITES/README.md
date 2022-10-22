@@ -13,6 +13,8 @@ For this project, we will be using Jupyter notebook and Spyder
 
 
 To install Anaconda navigator and to know how to use Jupyter Notebook & Spyder using Anaconda watch the video
+
+
 https://youtu.be/5mDYijMfSzs
 
 ### Step 2:
@@ -37,6 +39,8 @@ Flask: Web framework used for building Web applications.
 
 
 Watch the video below to learn how to install packages
+
+
 https://youtu.be/akj3_wTploU
 
 If you are using anaconda navigator, follow below steps to download required packages:
